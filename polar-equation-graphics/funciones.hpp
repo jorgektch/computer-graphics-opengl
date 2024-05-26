@@ -77,14 +77,4 @@ void dibujarRosaPolar() {
             glVertex2f(-x, y);
         }
     glEnd();
-    /*
-    glBegin(GL_LINE_STRIP);
-        for (float t = 0; t <= 2 * M_PI; t += 0.01) {
-            float r = 100 * cos(5*t);
-            float x = r * cos(t);
-            float y = r * sin(t);
-            glVertex2f(x, y);
-        }
-    glEnd();
-    */
 }

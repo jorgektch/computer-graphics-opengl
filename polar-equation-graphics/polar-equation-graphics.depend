@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1716734461 source:c:\users\jorgektch\projects\computer-graphics-opengl\polar-equation-graphics\main.cpp
+	<GLUT/glut.h>
+	<windows.h>
+	<math.h>
+	<stdlib.h>
+	"funciones.hpp"
+	<GL/glut.h>
+
+1716734543 c:\users\jorgektch\projects\computer-graphics-opengl\polar-equation-graphics\funciones.hpp
+	<GL/glut.h>
+
+976692172 c:\program files\codeblocks\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+832830744 c:\program files\codeblocks\glut\include\gl\gl.h
+
+832386918 c:\program files\codeblocks\glut\include\gl\glu.h
+	<GL/gl.h>
+
