@@ -41,6 +41,7 @@ void dibujarCardioideVerticalAbajo() {
 }
 
 void dibujarCaracolPascalHorizontalDerecha() {
+    // Ref: https://es.wikipedia.org/wiki/Caracol_de_Pascal
     glColor3f(1.0, 0.0, 0.0); // Figura roja
     float a = 100, b = 50;
     glBegin(GL_LINE_STRIP);
@@ -54,6 +55,7 @@ void dibujarCaracolPascalHorizontalDerecha() {
 }
 
 void dibujarCaracolPascalHorizontalIzquierda() {
+    // Ref: https://es.wikipedia.org/wiki/Caracol_de_Pascal
     glColor3f(1.0, 0.0, 0.0); // Figura roja
     float a = 100, b = 50;
     glBegin(GL_LINE_STRIP);
