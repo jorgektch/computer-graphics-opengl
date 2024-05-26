@@ -1,2 +1,2 @@
 # Computer Gaphics With OpenGL
-computer-graphics-opengl
+Computer Gaphics With OpenGL
